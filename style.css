@@ -1,0 +1,82 @@
+
+.head{
+    padding: 2px;
+    text-align: center;
+    background-color: #0D47A1;
+    border-radius: 7px;
+    box-shadow: 2px 2px 2px 2px black;
+    font-weight: bold;
+}
+.image{
+    width: 100%;
+    height:  200px;
+    border-radius: 7px;
+}
+body{
+    text-align: center;
+}
+
+.main{
+    margin-top: 5px;
+}
+
+.add{
+    background-color: #0D47A1;
+    border-radius: 7px;
+    margin-left: 10px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.delet{
+    background-color: #0D47A1;
+    border-radius: 7px;
+    margin-left: 10px;
+    box-shadow: 2px 2px 2px 2px black;
+    font-weight: bold;
+}
+.edit{
+    background-color: #0D47A1;
+    border-radius: 7px;
+    margin-left: 10px;
+    box-shadow: 2px 2px 2px 2px black; 
+    font-weight: bold;
+  
+}
+.delete_all{
+    background-color: #0D47A1;
+    border-radius: 7px;
+    margin-top: 70px;
+    box-shadow: 2px 2px 2px 2px black; 
+    align-items: flex-end;
+    font-weight: bold;
+
+}
+#text{
+   
+    font-size: medium;
+    border: none;
+    border-bottom: 2px solid black;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+#table{
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+
+}
+.c1{
+width: 3%;
+text-align: center;
+}
+.c2{
+    width: 30%;
+}
+.c3{
+    width: 65%;
+}
